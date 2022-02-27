@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love's letters, his and hers, to each other, a little before his death.</title>
+            <author>Love, Mary, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88585</idno>
+            <idno type="STC">Wing L3166</idno>
+            <idno type="STC">Thomason E646_6</idno>
+            <idno type="STC">ESTC R208751</idno>
+            <idno type="EEBO-CITATION">99867673</idno>
+            <idno type="PROQUEST">99867673</idno>
+            <idno type="VID">119994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119994)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E646[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love's letters, his and hers, to each other, a little before his death.</title>
+                  <author>Love, Mary, 17th cent.</author>
+                  <author>Love, Christopher, 1618-1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter from Mrs. Love to her husband, and his reply, dated 11 July and 22 August 1651, respectively.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love, Christopher, 1618-1651.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119994:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 81 -->
+            <p>LOVES LETTERS, His and Hers, To each other, a little before his Death.</p>
+            <figure/>
+            <p>Printed in the Year, 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119994:2"/>
+            <!-- PDF PAGE 82 -->
+            <pb n="1" facs="tcp:119994:2"/>
+            <!-- PDF PAGE 82 -->
+            <head>M<hi rend="sup">rs</hi> Love's <hi>Letter to her Husband.</hi>
+            </head>
+            <opener>
+               <salute>Sweet heart,</salute>
+            </opener>
+            <p>BEfore I write further, I beſeech you think not that it is your wife but a friend that now writeth to thee: I hope thou haſt freely given up thy Wife and Children to that God that ſaid <hi>Ier.</hi> 49.11. <hi>Leave thy Children, I will preſerve them, and let thy widows trust in me: thy Maker ſhall be thy Hus<g ref="char:EOLhyphen"/>band:</hi> On that the Lord would keep thee from having one troub<g ref="char:EOLhyphen"/>led thought about thy relations; I deſire to give thee freely up into thy Fathers hands, and not only look upon it as a Crown of Glory for thee to die for Chriſt, but as an honour for me that I ſhould have a Husband to leave for Chriſt: I dare not ſpeak to thee, nor have a thought within my ſelf of my unſpeakable loſſe, but wholly keep my eye fixed upon the unſpeakable and unconceiva<g ref="char:EOLhyphen"/>ble gain. Thou leaveſt but a ſinfull mortall Wife, to be everlaſtingly married to the Lord of Glory, thou leaveſt but Children, and Bre<g ref="char:EOLhyphen"/>thren, and Siſters, to go to the Lord Jeſus thy elder brother; thou leaveſt friends to go to the enjoyment of holy Angels, and of the ſpirits of Juſt men made perfect; thou doſt but leave Earth for Heaven; and if naturall affections begin to riſe, I hope that ſpirit of grace that is within thee will quell them: And knowing that all things here below are but dung and droſſe in compariſon of thoſe things above; I know thou keepeſt thy eye fixed upon the hope of Glory which maketh thee ſo trample upon the loſſe of Earth. My Dear, I know God hath not only prepared Glory for thee, and thee for it, but I am perſwaded he will ſweeten the way for thee to come to the enjoyment of it; and when thou art put<g ref="char:EOLhyphen"/>ting on thy clothes that morning, think, I am putting on my wed<g ref="char:EOLhyphen"/>ding clothes to go to be married to my Redeemer; when the meſ<g ref="char:EOLhyphen"/>ſenger of Death cometh to thee, let him not be dreadfull, but look upon him as a meſſenger that bringeth thee tidings of eternal life; when thou goeſt up the Scaffold, think what thou toldeſt me, that it was but thy Chariot to draw thee to thy Fathers houſe. And when thou layeſt down thy dear Head to receive thy Fathers
+<pb n="2" facs="tcp:119994:3"/>
+               <!-- PDF PAGE 83 -->ſtroak, Remember what thou ſaidſt to me, that though thy Head were ſevered from thy Body, yet thy Soul ſhould ſoon be united to Jeſus Chriſt thy Head in Heaven. And though it may ſeem bitter that by the hands of men we are parted a little ſoon<g ref="char:EOLhyphen"/>er then otherwiſe we ſhould have been, yet let us conſider it is the decree and will of the Father, and beſides, we could not have lived much longer together, and it will not be long ere we ſhall enjoy one another again in Heaven. Oh let us comfort one another with theſe ſayings: Oh be comforted, it is but a little ſtroak ere thou ſhalt be where the weary are at reſt, and where the wicked ſhall ceaſe from troubling thee; Oh remember though thou eat thy dinner with bitter herbs, yet thou ſhalt have a joy full ſupper with Jeſus Chriſt that night: And my Dear, by what I write to thee, I do not under take to be a Teacher of thee, for this comfort I have received from the Lord by thee. I hear a Warrant is come to the Lieutenant, I am ready to think it may be concerning thee to ſend thee to thy journeys end to morrow, and that becauſe they may poſſibly be hindred if they ſtay till the day appointed, but I am perſwaded that thou art ſo far from being afraid of it, that thou doſt long for the day, which (next under God) to hear of thy willingnes to die, will be the greateſt comfort to me in the world. I can write no more, but commit thee to the hands of that God, with whom thou and I ere long ſhall be:</p>
+            <closer>
+               <signed>
+                  <hi>Farewell, Farewell,</hi> M. Love.</signed>
+            </closer>
+            <postscript>
+               <p>One Comfort I would have thee to carry to thy grave, If ever God did good to my Soul, thou waſt the chief Inſtrument of it, for I never looked after God till I ſaw thy face. <hi>July</hi> 11.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:119994:3"/>
+            <!-- PDF PAGE 83 -->
+            <head>Another.</head>
+            <opener>
+               <salute>My Heavenly Dear,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Call thee ſo, becauſe God hath put Heaven into thee before he hath taken thee to Heaven; thou now beholdeſt God, and Chriſt, and Glory as in a Glaſs, but to morrow Heaven-gates ſhall be opened, and thou ſhalt be in the full enjoyment of all that glory which eye hath not ſeen, nor eare heard, nor the heart of man can conceive. God hath now ſwallowed up thy thoughts of Heaven, but ere long thou ſhalt be whol<g ref="char:EOLhyphen"/>ly ſwallowed in the enjoyment of Heaven. Oh no marvail there ſhould be ſuch a quietneſs and calmneſs in thy ſpirit, whilſt thou are falling into this tempeſtuous ſtorm; becauſe thou perceiveſt by the eye of faith a haven of reſt, where you ſhall be richly laden with the glory of Hea<g ref="char:EOLhyphen"/>ven. Oh lift up thy head with Ioy when thou layeſt it upon the block in the thoughts of this, that now thou art leaving thy head, to reſt in thy Saviours boſome; which when thou ſhalt awake, ſhall be Crow<g ref="char:EOLhyphen"/>ned not with any earthen Crown which fadeth away, but with an Heavenly Crown of glory. Oh be not diſcouraged when thou ſhalt ſee a Guard of Souldiers triumphing with their Trumpets about thee; but lift up thy head, and thou ſhalt behold God with a Guard of his holy Angels triumphing for to receive thee into glory. Oh be not diſ<g ref="char:EOLhyphen"/>mayed at the ſcoffs and repreaches thou maist meet with in thy ſhort way to heaven; for be aſſured, that God will not glorifie thy body and ſoul in Heaven, but he will make the memory of thee glorious upon the earth. Oh let not one troubled thought for thy Wife and Babes riſe within thee; thy God will be our God, and our portion; he will be a Husband to the Widow, and a Father to thy Children; the grace of thy God will be ſufficient for us. Now, my Dear, I deſire willingly and chearfully to reſign up my right in thee to my Father, and thy Fa<g ref="char:EOLhyphen"/>ther, who hath the greateſt part and intereſt in thee. Though men have ſeparated us for a time; yet our mercifull God will ere long bring us together again, where we ſhall eternally enjoy one another, ne<g ref="char:EOLhyphen"/>ver to ſeparate more. And let me hear how God beareth up thy heart, and let me taſte of the Comforts that ſupport thee, that they may be as Pillars of Marble to bear up my heart. I can write no more: <hi>Fare<g ref="char:EOLhyphen"/>well, farewell, my Dear,</hi> till we ſhall meet where we ſhall bid farewell no more, till which time I leave thee in the hands of a tender-hearted Father; and do reſt, till I ſhall reſt with thee in Heaven.</p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:119994:4"/>
+            <!-- PDF PAGE 84 -->
+            <head>
+               <hi>Mr</hi> Loves <hi>Letter to his Wife, the day of his Death.</hi>
+            </head>
+            <opener>
+               <salute>My moſt gracious Beloved,</salute>
+            </opener>
+            <p>I Am now going from a priſon to a Palace, I have finiſhed my work, I am now to receive my wages; I am going to Heaven where are two of my Children, and leaving you on earth where are three of my Babes; thoſe two above need not my care, but the three below need you<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. It comforts me to think two of my Children are in the boſom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Abraham,</hi> and three of them will be in the arms and care of ſo tender and godly a mother; I know you are a woman of a ſorrowfull ſpirit, yet be comforted, though your ſorrows be great for your Husbands going out of the world, yet your pains ſhall be the leſſe in bringing your Childe into the world; you ſhall be a joyfull Mother, though you be a ſad Widow; God hath many mercies in ſtore for you, the prayers of a dying Husband for you will not be loſt; to my ſhame I ſpeak it, I never pray'd ſo for you at Liberty, as I have done in Priſon; I cannot write much, but I have a few practicall Counſels to leave with you, <hi>viz.</hi>
+            </p>
+            <p n="1">1. Keep under a ſound Orthodox and ſoul-ſearching Miniſtry: Oh there are many deceivers gone out into the world, but Chriſts ſheep know his voice, and a ſtranger they will not follow; at<g ref="char:EOLhyphen"/>tend any Miniſtry which teacheth the way of God in truth, and follow <hi>Solomons</hi> advice, <hi>Pro.</hi> 19.27. <hi>Ceaſe to hear inſtruction that cauſeth to erre from the words of knowledge.</hi>
+            </p>
+            <p n="2">2. Bring up your Children in the knowledge and admonition of the Lord; the Mother ought to be a Teacher in the Fathers ab<g ref="char:EOLhyphen"/>ſence, <hi>Pro.</hi> 31.1. the words of his Mother taught him, and <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> was inſtructed by his Grand-mother <hi>Lois,</hi> and his Mother <hi>Eunice,</hi> 2 Tim. 1.5.</p>
+            <p n="3">3. Pray in your Family daily, that yours may be in the number of the families who do call upon God.</p>
+            <p n="4">4. Labour for a meek and quiet ſpirit which is in the ſight of God of great price, 1 <hi>Pet.</hi> 3.4.</p>
+            <p n="5">5. Pore not on the comforts you want, but upon the mercies you have.</p>
+            <pb n="5" facs="tcp:119994:4"/>
+            <!-- PDF PAGE 84 -->
+            <p n="6">6. Look rather at Gods end in afflicting, then at the meaſure or degree of your affliction.</p>
+            <p n="7">7. Labour to clear up your evidence for Heaven, when God takes from you the comforts of Earth, that ſo as your ſufferings do abound, your conſolations in Chriſt may abound much more, 2 <hi>Cor.</hi> 1.4.</p>
+            <p n="8">8. Though it is good to maintain a holy Jealouſie of the deceit<g ref="char:EOLhyphen"/>fullneſſe of the heart, yet it is evill for you to cheriſh fears and doubts touching the truth of your graces; If ever I had confi<g ref="char:EOLhyphen"/>dence touching the grace of another, I have confidence of grace in you; that I can ſay of you as <hi>Peter</hi> did of <hi>Silvanus, I am per<g ref="char:EOLhyphen"/>ſwaded that this is the grace of God wherein you ſtand,</hi> 1 Pet. 5.12. Oh my Dear Soul, wherefore doſt thou doubt, whoſe heart hath been upright, whoſe walking hath been holy, <hi>&amp;c.</hi> I could venture my Soul this day in your Souls ſtead, ſuch a confidence have I of you.</p>
+            <p n="9">9. When you finde your heart ſecure, preſumptuous and proud, then pore upon corruption more then grace, but when you finde your heart doubting and unbeleeving, then look upon your grace not on your infirmities.</p>
+            <p n="10">10, Study the Covenant of Grace and Merits of Chriſt, and then be troubled if you can, you are intereſted in ſuch a Covenant that accepts purpoſes for performances, deſires for deeds, ſincerity for perfection, the righteouſneſſe of another, <hi>viz.</hi> that of Jeſus Chriſt, as if it were your own: Oh my Love, reſt thou in the love of God in the boſome of Chriſt.</p>
+            <p n="11">11, Swallow up your will in the will of God: It is a bitter cup we are to drink, but it is the c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p our Father hath put into our hand; when <hi>Paul</hi> was to go to ſu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> at <hi>Ieruſalem,</hi> the Chriſtians could ſay, <hi>The will of the Lord be done,</hi> Oh ſay you ſo when I go to <hi>Tower-hill,</hi> The will of the Lord be done.</p>
+            <p n="12">12. Rejoyce in my Joy; to mourn for me inordinately, argues that either you envy or ſuſpect my happineſſe; The Joy of the Lord is my ſtrength, Oh let it be yours alſo: Dear Wife farewell, I will call thee Wife no more, I ſhall ſee thy face no more, yet I am not much troubled; for now I am going to meet the Bride<g ref="char:EOLhyphen"/>groom, the Lord Jeſus, to whom I ſhall be eternally married.</p>
+            <p n="13">13. Refuſe not to marry when God offers you a fair opportu<g ref="char:EOLhyphen"/>nity, but be ſure you marry in the Lord, and one of a good diſpoſi<g ref="char:EOLhyphen"/>tion
+<pb n="6" facs="tcp:119994:5"/>
+               <!-- PDF PAGE 85 -->that may not grieve you, and one of a comfortable livelihood in the world,</p>
+            <p>Farewell Dear Love, Farewell, and again I ſay Farewell, the Lord Jeſus be with your Spirit, the Maker of Heaven and Earth be a Husband unto you:—and the Father of our Lord Jeſus Chriſt be a Father to your Children: So praies,</p>
+            <closer>
+               <dateline>From the Tower of <hi>London,</hi> 
+                  <date>the 22. of <hi>Auguſt,</hi> 1651.</date> the day of my Glorification.</dateline>
+               <signed>Your dying, yet moſt affectionate Friend, till death, <hi>Chriſtopher Love.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
